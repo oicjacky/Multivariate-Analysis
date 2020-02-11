@@ -24,3 +24,15 @@
 
 - 資料來源:東部運輸中心(105年搭乘公車刷卡紀錄)
 
+## EDA
+
+**路線上下車站使用量(整年)**
+
+![使用量](https://github.com/oicjacky/Multivariate-Analysis/blob/master/data03.png)
+
+**路線上下車站與時間(整年)**
+
+![班次](https://github.com/oicjacky/Multivariate-Analysis/blob/master/data02.png)
+
+---
+

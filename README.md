@@ -53,7 +53,8 @@
 
 - 使用量高的集中於某幾個站點上
 
-- [詳見 MVA Part I report bus data analysis (0517).pdf](https://github.com/oicjacky/Multivariate-Analysis/blob/master/0611MVA%20Part%20II%20Presentation/MVA%20Part%20I%20report%20bus%20data%20analysis%20(0517).pdf)
+- 詳見[MVA Part I report bus data analysis (0517).pdf](https://github.com/oicjacky/Multivariate-Analysis/blob/master/0611MVA%20Part%20II%20Presentation/MVA%20Part%20I%20report%20bus%20data%20analysis%20(0517).pdf)
+與[MVA Part II presentation (0611).pdf](https://github.com/oicjacky/Multivariate-Analysis/blob/master/0611MVA%20Part%20II%20Presentation/MVA%20Part%20II%20presentation%20(0611).pdf)
 
 ---
 

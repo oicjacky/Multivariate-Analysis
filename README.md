@@ -27,7 +27,7 @@
 
 # Data
 
-![Data](https://github.com/oicjacky/Multivariate-Analysis/blob/master/data.PNG)
+![Data](https://github.com/oicjacky/Multivariate-Analysis/blob/master/data.)
 
 
 - 路線: 11(上車54站,下車71站)、22(上車51站,下車68站)、33(上車50站,下車60站)、44(上車51站,下車62站)
